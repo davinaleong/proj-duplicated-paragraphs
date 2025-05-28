@@ -6,8 +6,6 @@ Here’s a clean and professional `README.md` for your **Duplicated Paragraph Sc
 
 This is a simple HTML + CSS project designed to visually test the detection of duplicated paragraphs. It's meant for frontend prototyping and layout validation where duplicate text needs to be manually or programmatically identified.
 
-![screenshot of project](https://via.placeholder.com/800x400?text=Duplicated+Paragraphs+Demo)
-
 ## 🔍 About
 
 This project contains multiple paragraphs—some of which are intentionally duplicated—to aid in testing duplicate detection algorithms or tools. It uses plain semantic HTML and system fonts with minimal styling for clarity and simplicity.
