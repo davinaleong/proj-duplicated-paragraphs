@@ -19,7 +19,7 @@ This project contains multiple paragraphs—some of which are intentionally dupl
 
 ## 🌐 Live Demo
 
-👉 [View Live Page](#)
+👉 [View Live Page](https://davinaleong.github.io/proj-duplicated-paragraphs/)
 
 ## 📂 Project Structure
 
